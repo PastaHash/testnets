@@ -1,0 +1,2 @@
+# testnets
+Haqq testnets repository
